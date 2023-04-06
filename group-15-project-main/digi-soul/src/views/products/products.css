@@ -1,0 +1,38 @@
+
+
+.c-image {
+  width: 1400px;
+  height: 586px;
+  z-index: -99999;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgb(0, 0, 0));
+  object-fit: cover;
+}
+
+.carousel{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  height:auto;
+  width: 100%;
+  
+}
+
+
+@media screen and (max-width:500px ) {
+  .p-cards{
+      display: block
+    } 
+    .c-image {
+    width: 100%;
+  height: auto;
+    }
+}
+
+@media (max-width: 1400px) and (min-width: 300px) {
+  .carousel{
+    height: auto;
+  }
+ .c-image {
+    width: 100%;
+  height: auto;
+    }
+}

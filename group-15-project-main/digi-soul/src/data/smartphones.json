@@ -1,0 +1,28 @@
+[
+    {
+      "productId": 1,
+      "productCategory": "Smart Phone",
+      "productName": "Apple Iphone 14 Pro",
+      "productPrice": "$1500",
+      "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754255928",
+      "productDetails": "A magical new way to interact with iPhone. A vital new safety feature designed to save lives. An innovative 48MP camera for mind‑blowing detail. All powered by the ultimate smartphone chip. "
+    },
+    {
+      "productId": 2,
+      "productCategory": "Smart Phone",
+      "productName": "Samsung S23",
+      "productPrice": "$1200",
+      "productImage": "https://images.samsung.com/vn/smartphones/galaxy-s23/buy/kv_combo_MO_v2.jpg",
+      "productDetails": "Slip into something a little more special. Fresh new colours inspired by nature are made from natural dyes and infused into the polished metal frame. Crafted with recycled glass and PET film and coloured with natural dyes, each phone is tucked into a box made of recycled paper and paper-based protective film. Seize the day and capture the night. Head out with the Pro-grade Camera in hand, equipped with a high-resolution sensor and intelligent, light-absorbing pixels for clear snaps, at any hour. Seize the day and capture the night. Head out with the Pro-grade Camera in hand, equipped with a high-resolution sensor and intelligent, light-absorbing pixels for clear snaps, at any hour."
+    },
+    {
+      "productId": 5,
+      "productCategory": "Smart Phone",
+      "productName": "Asus ROG 5",
+      "productPrice": "$1199",
+      "productImage": "https://cdn.dxomark.com/wp-content/uploads/medias/post-86183/Asus-ROG-Phone-5-featured-image-packshot-review-Recovered-1024x691.jpg",
+      "productDetails": "Microsoft Build (often stylised as //build/) is an annual conference product held by Microsoft, aimed at software engineers and web developers using Windows, Microsoft Azure and other Microsoft technologies. First held in 2011, it serves as a successor for Microsoft's previous developer products, the Professional Developers Conference (an infrequent product which covered development of software for the Windows operating system) and MIX (which covered web development centering on Microsoft technology such as Silverlight and ASP.net). The attendee price was (US)$2,195 in 2016, up from $2,095 in 2015. It sold out quickly, within one minute of the registration site opening in 2016.\n\nThe product has been held at a large convention center, or purpose-built meeting space on the Microsoft Campus. The Keynote on the first day has been led by the Microsoft CEO addressing the press and developers. It has been the place to announce the general technology milestones for developers. There are breakout sessions conducted by engineers and program managers, most often Microsoft employees representing their particular initiatives. The keynote on the second day often includes deeper dives into technology. Thousands of developers and technologists from all over the world attend.\n\nBuild 2011 was held from September 13 to September 16, 2011 in Anaheim, California.\n\n The conference heavily focused on Windows 8, Windows Server 2012 and Visual Studio 2012; their Developer Preview versions were also released during the conference. Attendees also received a Samsung tablet shipping with the Windows 8 'Developer Preview' build.\n\n"
+    }
+
+  ]
+  

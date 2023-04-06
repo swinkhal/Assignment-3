@@ -1,0 +1,32 @@
+.aim-box{
+    background-color: #03989E;
+    padding: 100px;
+}
+
+@media screen and (max-width:500px) {
+    .ds-home-img1{
+        width: 100%;
+    }
+
+    .topic-head{
+        font-size: x-large;
+    }
+
+    .topic-content{
+        font-size: large;
+    }
+
+    .aim-box{
+        padding: 30px;
+    }
+    
+}
+
+@media screen and (max-width:1000px) and (min-width:500px) {
+    .ds-home-img1{
+        width: 100%;
+    }
+    .aim-box{
+        padding: 60px;
+    }
+}

@@ -1,0 +1,15 @@
+.blogs-img{
+    width: 400px;
+    height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width:500px) {
+    .blogs-img{
+        width:100%;
+        height: auto;
+    }
+    
+}

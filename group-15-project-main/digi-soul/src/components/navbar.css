@@ -1,0 +1,19 @@
+.logo-nav{
+    width: 4.5em;
+    height: auto;
+}
+
+.logo-main{
+    width: 11em;
+    height: auto;
+}
+
+.links a{
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+}
+
+
+

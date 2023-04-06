@@ -1,0 +1,32 @@
+[
+  {
+    "reviewId": 1,
+    "reviewTitle": "Google Pixel 7 Pro: What we know so far",
+    "reviewDescription": "The natural successor to the Pixel 6 Pro is the Pixel 7 Pro. So what do we know so far? This guide will take you through the Pixel 7 Pro release date, specs, and more about Google’s next flagship.",
+    "fullReview": "Google was reluctant to unveil any big details about the upcoming Pixel 7 Pro. That isn’t to say we don’t know anything. In fact, our APK Insight team has done a bit of digging and has unsurprisingly uncovered a couple of upcoming details about the Pixel 7 Pro’s internals. First, we’re confident we are looking at a second-generation Tensor chip, which seems like a natural progression considering Google is very proud of the first iteration of its house-made processor. With a little bit of digging, we’ve learned that the name for Tensor version two will be “GS201.” Within this SoC will also be a new Samsung modem, which was learned to be named “g5300b.” This is likely the Exynos Modem 5300, which hasn’t been announced or released yet. Other than processor information, there isn’t much else available yet in terms of Pixel 7 Pro specs. We’re expecting Google to focus on Tensor GS201 and develop a device that can showcase what the processor is capable of. On the surface of the Pixel 7 Pro, we can glean a few quite stunning details about the phone. One of the bigger changes is the new camera bar design. Rather than having a wide glass panel that covers the sensors on the back of the phone, we’re left with an aluminum casing that houses these cameras. Google mentioned that the aluminum here is made from 100% recycled materials.",
+    "reviewImg": "https://9to5google.com/wp-content/uploads/sites/4/2022/05/Pixel-7-and-Pixel-7-Pro.jpg"
+  },
+  {
+    "reviewId": 2,
+    "reviewTitle": "Apple iPhone 14 review: meet the iPhone 13S",
+    "reviewDescription": "A slight camera upgrade, new emergency features, and... not a whole lot else",
+    "fullReview": "If those two phrases sound at odds with each other, then let me explain. The iPhone 14 is highly capable. Its chipset can handle everything from day-to-day tasks to graphics-intensive gaming. Its cameras are capable of very good photos, and it records the best video clips you’ll see from any phone in its class. This is all true of the 14, but it’s also true of the iPhone 13. The iPhone 14 is a very good phone, with a handful of useful upgrades over the 13. But it’s a small handful, and that leaves the 14 in a tight spot. The iPhone 13, which came out a year ago and Apple is still selling, is nearly identical to the 14 and $100 cheaper, while the iPhone 14 Pro introduces a lot of interesting new features. And the upcoming iPhone 14 Plus has the same hardware as the 14 but a massive 6.7-inch screen. If the Great iPhone Mini Experiment taught us anything, it’s that people love big screens.",
+    "reviewImg": "https://cdn0.vox-cdn.com/hermano/verge/product/image/9965/226270_IPHONE_14_REGULAR_PHO_akrales_0682.jpeg",
+    "reviewYT": "https://www.youtube.com/embed/hZP_i6BZpR8"
+  },
+  {
+    "reviewId": 3,
+    "reviewTitle": "Motorola rizr rollable phone concept hands-on: They see me rollin'",
+    "reviewDescription": "Move aside, foldables, the latest coolness is here.",
+    "fullReview": "Motorola opted for a smaller form factor for its rizr rollable. In its compact state, the phone sports a 5-inch 15:9 POLED display supplied by BOE Display. It’s tiny compared to the modern 6-inch-and-above flagships we’re used to, but as the razr series and Samsung Flip series showed us, there’s a lot of demand for smaller and more pocketable phones. The display wraps all the way around the bottom of the rizr and comes up from the back, covering about a third of the rear side. Just double-tap the power button on the side and the motorized system snaps into action, rolling the display up and up, until most of the rear panel part has made its way to the front of the phone. This takes around three seconds and extends the display to a 22:9 6.5-inch size. The Android interface adjusts: Apps stretch vertically, while icons are re-aligned on the home screen for faster access. Motorola is also making special wallpapers that automatically adapt to this metamorphosis.",
+    "reviewImg": "https://www.androidauthority.com/wp-content/uploads/2023/02/motorola-rizr-rollable-phone-compact-front-1536w-864h.jpg.webp",
+    "reviewYT": "https://www.youtube.com/embed/NydMRmjuDF4"
+  },
+  {
+    "reviewId": 4,
+    "reviewTitle": "iOS 16: New features, iPhone compatibility, release date",
+    "reviewDescription": "With iOS 15, Apple introduced Live Text, Focus Modes, a redesigned Safari, and lots of new tweaks for FaceTime and iMessage. Now, with iOS 16, Apple is improving all these experiences while bringing a revamped Lock Screen",
+    "fullReview": "The new Lock Screen is Apple’s main bet with iOS 16. You can customize the font, color, or placement of elements on your Lock Screen by tapping the element. There are new font styles and color choices that allow you to customize the look of the date and time. With Widgets and a new API, users can add third-party widgets to the Lock Screen. In a future update, Live Activities will show ongoing sports games or track the progress of your Uber ride",
+    "reviewImg": "https://9to5mac.com/wp-content/uploads/sites/6/2022/06/ios-16-lock-screen.jpg?quality=82&strip=all&w=1000"
+  }
+]
